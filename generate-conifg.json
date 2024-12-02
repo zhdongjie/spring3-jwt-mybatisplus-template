@@ -1,0 +1,75 @@
+{
+  "project": {
+    "name": "spring3-jwt-mybatisplus-template",
+    "groupId": "com.projcet",
+    "artifactId": "spring3-jwt-mybatisplus-template",
+    "version": "0.0.1-SNAPSHOT",
+    "packagePath": "com.project.template"
+  },
+  "permissions": [
+    {
+      "name": "删除用户",
+      "code": "system:user:delete"
+    },
+    {
+      "name": "修改用户",
+      "code": "system:user:update"
+    },
+    {
+      "name": "创建用户",
+      "code": "system:user:create"
+    },
+    {
+      "name": "查询用户列表",
+      "code": "system:user:list"
+    },
+    {
+      "name": "创建角色",
+      "code": "system:role:create"
+    },
+    {
+      "name": "删除角色",
+      "code": "system:role:delete"
+    },
+    {
+      "name": "修改权限",
+      "code": "system:role:update"
+    },
+    {
+      "name": "查询角色列表",
+      "code": "system:role:list"
+    },
+    {
+      "name": "创建权限",
+      "code": "system:permission:create"
+    },
+    {
+      "name": "删除权限",
+      "code": "system:permission:delete"
+    },
+    {
+      "name": "更新权限",
+      "code": "system:permission:update"
+    },
+    {
+      "name": "查询权限列表",
+      "code": "system:permission:list"
+    },
+    {
+      "name": "更新用户状态",
+      "code": "system:user:update-status"
+    },
+    {
+      "name": "重置用户密码",
+      "code": "system:user:reset-password"
+    },
+    {
+      "name": "仪表盘",
+      "code": "system:dashboard"
+    },
+    {
+      "name": "系统管理",
+      "code": "system"
+    }
+  ]
+}
