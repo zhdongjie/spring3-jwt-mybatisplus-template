@@ -8,6 +8,6 @@
     "author": "",
     "packagePath": "com.project.template",
     "database": "spring3-jwt-mybatisplus-template",
-    "port": 9000
+    "port": "9000"
   }
 }
