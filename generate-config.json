@@ -5,7 +5,9 @@
     "artifactId": "spring3-jwt-mybatisplus-template",
     "version": "0.0.1-SNAPSHOT",
     "description": "Spring3 + Jwt + Mybatis-Plus Template",
+    "author": "",
     "packagePath": "com.project.template",
-    "database": "spring3-jwt-mybatisplus-template"
+    "database": "spring3-jwt-mybatisplus-template",
+    "port": 9000
   }
 }
