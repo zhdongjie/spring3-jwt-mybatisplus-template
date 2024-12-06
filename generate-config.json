@@ -1,5 +1,5 @@
 {
-  "project": {
+  "templateProject": {
     "name": "spring3-jwt-mybatisplus-template",
     "groupId": "com.projcet",
     "artifactId": "spring3-jwt-mybatisplus-template",
