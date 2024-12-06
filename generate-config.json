@@ -1,0 +1,11 @@
+{
+  "project": {
+    "name": "spring3-jwt-mybatisplus-template",
+    "groupId": "com.projcet",
+    "artifactId": "spring3-jwt-mybatisplus-template",
+    "version": "0.0.1-SNAPSHOT",
+    "description": "Spring3 + Jwt + Mybatis-Plus Template",
+    "packagePath": "com.project.template",
+    "database": "spring3-jwt-mybatisplus-template"
+  }
+}
