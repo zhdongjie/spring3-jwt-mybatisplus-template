@@ -6,6 +6,10 @@
   "description": "Spring3 + Jwt + Mybatis-Plus Template",
   "author": "",
   "packagePath": "com.project.template",
+  "port": "9000",
   "database": "spring3-jwt-mybatisplus-template",
-  "port": "9000"
+  "databaseUser": "root",
+  "databasePassword": "root",
+  "databaseServer": "127.0.0.1",
+  "databasePort": "3306"
 }
