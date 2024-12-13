@@ -11,5 +11,6 @@
   "databaseUser": "root",
   "databasePassword": "root",
   "databaseServer": "127.0.0.1",
-  "databasePort": "3306"
+  "databasePort": "3306",
+  "databaseSqlScript": "sql/init.sql"
 }
